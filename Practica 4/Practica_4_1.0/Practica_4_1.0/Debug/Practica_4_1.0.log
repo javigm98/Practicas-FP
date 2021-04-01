@@ -1,0 +1,18 @@
+﻿Build started 27/04/2017 14:19:12.
+     1>Project "D:\Fundamentos Programacion\Practicas_FP\Practica 4\Practica_4_1.0\Practica_4_1.0\Practica_4_1.0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\software\programacion\MSVStudio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt indices.cpp
+         indices.cpp
+     1>d:\fundamentos programacion\practicas_fp\practica 4\practica_4_1.0\practica_4_1.0\indices.cpp(80): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\software\programacion\MSVStudio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Fundamentos Programacion\Practicas_FP\Practica 4\Practica_4_1.0\Debug\Practica_4_1.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Fundamentos Programacion\Practicas_FP\Practica 4\Practica_4_1.0\Debug\Practica_4_1.0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Fundamentos Programacion\Practicas_FP\Practica 4\Practica_4_1.0\Debug\Practica_4_1.0.lib" /MACHINE:X86 Debug\clavevalor.obj
+         Debug\indices.obj
+         Debug\listaCadenas.obj
+         Debug\main.obj
+         Debug\matriz.obj
+         Practica_4_1.0.vcxproj -> D:\Fundamentos Programacion\Practicas_FP\Practica 4\Practica_4_1.0\Debug\Practica_4_1.0.exe
+     1>Done Building Project "D:\Fundamentos Programacion\Practicas_FP\Practica 4\Practica_4_1.0\Practica_4_1.0\Practica_4_1.0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.11

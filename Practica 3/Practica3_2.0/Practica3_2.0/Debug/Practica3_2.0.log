@@ -1,0 +1,21 @@
+﻿Compilación iniciada a las 22/03/2017 20:51:23.
+     1>Proyecto "F:\Practica3_2.0\Practica3_2.0\Practica3_2.0.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp Sokoban.cpp juego.cpp
+         juego.cpp
+         Sokoban.cpp
+     1>f:\practica3_2.0\practica3_2.0\sokoban.cpp(84): warning C4018: '<' : no coinciden signed/unsigned
+     1>f:\practica3_2.0\practica3_2.0\sokoban.cpp(97): warning C4018: '>' : no coinciden signed/unsigned
+         Main.cpp
+     1>f:\practica3_2.0\practica3_2.0\main.cpp(11): warning C4101: 'movido' : variable local sin referencia
+         Generando código...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Practica3_2.0\Debug\Practica3_2.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Practica3_2.0\Debug\Practica3_2.0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Practica3_2.0\Debug\Practica3_2.0.lib" /MACHINE:X86 Debug\juego.obj
+         Debug\Main.obj
+         Debug\Sokoban.obj
+         Practica3_2.0.vcxproj -> F:\Practica3_2.0\Debug\Practica3_2.0.exe
+     1>Compilación del proyecto terminada "F:\Practica3_2.0\Practica3_2.0\Practica3_2.0.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:21.28

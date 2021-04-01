@@ -1,0 +1,2 @@
+Desde aqui puedo ir a juegos <juegos.txt> o a otros juegos en linea <XEnLinea.txt> <ZEnLinea.txt>. Tambien puedo referenciar mi propia pagina <YEnLinea.txt> o ir dos 
+veces a una <juegos.txt> <juegos.txt>

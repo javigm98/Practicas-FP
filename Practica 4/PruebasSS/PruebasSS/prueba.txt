@@ -1,0 +1,3 @@
+El mejor edificio del mundo es la Facultad de informatica
+<arquitectura.txt>, aunque los de las otras FACULTADES <facultades.txt>
+no estan nada mal.

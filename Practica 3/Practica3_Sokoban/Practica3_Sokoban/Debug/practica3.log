@@ -1,0 +1,12 @@
+﻿Compilación iniciada a las 06/03/2017 0:08:46.
+     1>Proyecto "F:\Practica3_Sokoban\Practica3_Sokoban\practica3.vcxproj" en el nodo 2 (Build destinos).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Practica3_Sokoban\Practica3_Sokoban\Debug\practica3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\Practica3_Sokoban\Practica3_Sokoban\Debug\practica3.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Practica3_Sokoban\Practica3_Sokoban\Debug\practica3.lib" /MACHINE:X86 Debug\juego.obj
+         Debug\Main.obj
+         Debug\Sokoban.obj
+         practica3.vcxproj -> F:\Practica3_Sokoban\Practica3_Sokoban\Debug\practica3.exe
+     1>Compilación del proyecto terminada "F:\Practica3_Sokoban\Practica3_Sokoban\practica3.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:06.81

@@ -1,0 +1,2 @@
+<pagina3.txt> es una referencia a una pagina.
+Tambien puedo ir al <inicio.txt> o a otra Pagina.

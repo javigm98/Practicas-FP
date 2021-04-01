@@ -1,0 +1,6 @@
+Algunas de las facultades de la UCM son:
+Matematicas <indice.txt>
+Informatica <informatica.txt>
+Facultad de Derecho <facultades.txt>
+Estos datos fueron obtenidos de <edificios.txt>
+Todas ellas estan en MADRID <madrid.txt>

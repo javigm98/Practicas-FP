@@ -1,0 +1,3 @@
+La facultad de Informatica <facultades.txt> tiene 2000
+aunque no es muy grande <edificios.txt>. Aun asi, tiene
+el mayor numero de ordenadores de la UCM.

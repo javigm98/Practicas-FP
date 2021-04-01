@@ -1,0 +1,2 @@
+<juegos.txt> Pulse para volver a juegos.
+El juego del Sokobon es muy divertido.

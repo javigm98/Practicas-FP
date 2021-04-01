@@ -1,0 +1,4 @@
+El edificio PRINCIPAL de la UCM es la facultad de Medicina, 
+dato obtenido en <facultades.txt>, aunque la de <informatica.txt>
+es grande <indice.txt>, pero hay otras que son grande
+tambien.

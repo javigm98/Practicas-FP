@@ -1,0 +1,5 @@
+Pagina de juegos onLine.
+En esta pagina se presentan varios juegos. Entre otros tenemos:
+Sokobon <Sokoban.txt>,
+XEnLinea <XEnLinea.txt>
+YEnLinea <YEnLinea.txt>.

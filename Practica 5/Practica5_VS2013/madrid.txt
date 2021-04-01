@@ -1,0 +1,6 @@
+Madrid is the capital city of the Kingdom of Spain <spain.txt> and the largest municipality in both the Community of Madrid and Spain <spain.txt> as a whole. 
+The city has a population of almost 3.2 million with a metropolitan area population of approximately 6.5 million. 
+It is the third-largest city in the European Union after London and Berlin, 
+and its metropolitan area is the third-largest in the EU after those of London and Paris.
+Madrid lies on the River Manzanares <indice.txt> in the centre of both the country and the Community of Madrid. Torres <torres.txt> was born there.
+

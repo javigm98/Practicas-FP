@@ -1,0 +1,5 @@
+﻿  Source.cpp
+f:\fundamentos programacion\practicas_fp\practica 5\busquedarecursiva\busquedarecursiva\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+f:\fundamentos programacion\practicas_fp\practica 5\busquedarecursiva\busquedarecursiva\source.cpp(61): warning C4018: '<': signed/unsigned mismatch
+  BusquedaRecursiva.vcxproj -> F:\Fundamentos Programacion\Practicas_FP\Practica 5\BusquedaRecursiva\Debug\BusquedaRecursiva.exe
+  BusquedaRecursiva.vcxproj -> F:\Fundamentos Programacion\Practicas_FP\Practica 5\BusquedaRecursiva\Debug\BusquedaRecursiva.pdb (Partial PDB)

@@ -1,0 +1,2 @@
+Esta pagina si tiene enlaces <pagina1.txt> <inicio.txt>
+y tambien <pagina4.txt> y <pagina5.txt>.

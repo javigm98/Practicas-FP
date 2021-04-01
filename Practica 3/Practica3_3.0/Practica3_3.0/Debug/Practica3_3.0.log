@@ -1,0 +1,21 @@
+﻿Build started 06/04/2017 13:16:55.
+     1>Project "D:\Practica3_3.0\Practica3_3.0\Practica3_3.0.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\software\programacion\MSVStudio2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt juego.cpp main.cpp sokoban.cpp
+         sokoban.cpp
+     1>d:\practica3_3.0\practica3_3.0\sokoban.cpp(61): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\practica3_3.0\practica3_3.0\sokoban.cpp(75): warning C4018: '>' : signed/unsigned mismatch
+         main.cpp
+     1>d:\practica3_3.0\practica3_3.0\main.cpp(10): warning C4101: 'movido' : unreferenced local variable
+         juego.cpp
+         Generating Code...
+       Link:
+         C:\software\programacion\MSVStudio2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Practica3_3.0\Debug\Practica3_3.0.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Practica3_3.0\Debug\Practica3_3.0.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Practica3_3.0\Debug\Practica3_3.0.lib" /MACHINE:X86 Debug\juego.obj
+         Debug\main.obj
+         Debug\sokoban.obj
+         Practica3_3.0.vcxproj -> D:\Practica3_3.0\Debug\Practica3_3.0.exe
+     1>Done Building Project "D:\Practica3_3.0\Practica3_3.0\Practica3_3.0.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.93

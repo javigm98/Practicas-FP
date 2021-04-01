@@ -1,0 +1,9 @@
+﻿  matriz.cpp
+  main.cpp
+  indices.cpp
+f:\fundamentos programacion\practica 4_\practica 4_\indices.cpp(86): warning C4018: '<': signed/unsigned mismatch
+f:\fundamentos programacion\practica 4_\practica 4_\indices.cpp(116): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  clavevalor.cpp
+  Generating Code...
+  Practica 4_.vcxproj -> F:\Fundamentos Programacion\Practica 4_\Debug\Practica 4_.exe
+  Practica 4_.vcxproj -> F:\Fundamentos Programacion\Practica 4_\Debug\Practica 4_.pdb (Partial PDB)
